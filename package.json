@@ -1,0 +1,19 @@
+{
+  "name": "meetup-tricks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jeremy Foster <jeremy.foster@live.com> (http://codefoster.com)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "command-line-args": "^3.0.3",
+    "config": "^1.24.0",
+    "q": "^1.4.1",
+    "request-promise": "^4.1.1",
+    "underscore": "^1.8.3"
+  }
+}
